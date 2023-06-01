@@ -1,0 +1,247 @@
+Table 6. Life expectancy and healthy life expectancy by Urban Rural classification 2016-2018,,,,,,,,,,
+,,,,,,,,,,
+Urban Rural (2016) code,Urban rural (2016) six fold classification,Sex,Age band,"Life Expectancy (LE, years)",LE Lower CI (years),LE Upper CI (years),Healthy Life Expectancy (HLE) (years),HLE Lower CI (years),HLE Upper CI (years),"Proportion of Life Spent in ""Good"" Health (%)"
+,,,,,,,,,,
+,,,,,,,,,,
+UR1,Large Urban Areas,female,less than 1,80.47,80.32,80.63,61.45,60.46,62.44,76.36
+UR1,Large Urban Areas,female,1 to 4,79.78,79.64,79.93,60.78,59.79,61.77,76.19
+UR1,Large Urban Areas,female,5 to 9,75.84,75.69,75.98,57.22,56.25,58.19,75.45
+UR1,Large Urban Areas,female,10 to 14,70.86,70.72,71.00,52.70,51.77,53.64,74.38
+UR1,Large Urban Areas,female,15 to 19,65.89,65.75,66.03,48.20,47.29,49.10,73.15
+UR1,Large Urban Areas,female,20 to 24,60.94,60.80,61.08,43.74,42.87,44.61,71.78
+UR1,Large Urban Areas,female,25 to 29,55.99,55.85,56.13,39.31,38.46,40.16,70.21
+UR1,Large Urban Areas,female,30 to 34,51.06,50.92,51.20,34.94,34.11,35.77,68.43
+UR1,Large Urban Areas,female,35 to 39,46.20,46.07,46.34,30.71,29.90,31.52,66.46
+UR1,Large Urban Areas,female,40 to 44,41.47,41.34,41.60,26.71,25.92,27.50,64.41
+UR1,Large Urban Areas,female,45 to 49,36.84,36.71,36.96,22.94,22.17,23.70,62.27
+UR1,Large Urban Areas,female,50 to 54,32.28,32.15,32.40,19.36,18.61,20.10,59.97
+UR1,Large Urban Areas,female,55 to 59,27.85,27.73,27.97,16.03,15.31,16.75,57.57
+UR1,Large Urban Areas,female,60 to 64,23.52,23.41,23.64,12.93,12.23,13.63,54.96
+UR1,Large Urban Areas,female,65 to 69,19.45,19.34,19.56,10.04,9.36,10.72,51.62
+UR1,Large Urban Areas,female,70 to 74,15.63,15.53,15.73,7.46,6.79,8.14,47.74
+UR1,Large Urban Areas,female,75 to 79,12.14,12.05,12.23,5.29,4.61,5.98,43.61
+UR1,Large Urban Areas,female,80 to 84,9.12,9.04,9.21,3.61,2.98,4.23,39.56
+UR1,Large Urban Areas,female,85 to 89,6.49,6.41,6.58,2.33,1.81,2.85,35.84
+UR1,Large Urban Areas,female,90+,4.52,4.41,4.63,1.51,1.02,2.00,33.47
+UR1,Large Urban Areas,male,less than 1,75.90,75.73,76.06,60.64,59.80,61.47,79.89
+UR1,Large Urban Areas,male,1 to 4,75.21,75.06,75.37,59.92,59.08,60.76,79.67
+UR1,Large Urban Areas,male,5 to 9,71.26,71.10,71.41,56.11,55.28,56.94,78.75
+UR1,Large Urban Areas,male,10 to 14,66.29,66.13,66.44,51.37,50.55,52.19,77.49
+UR1,Large Urban Areas,male,15 to 19,61.33,61.18,61.48,46.68,45.87,47.48,76.10
+UR1,Large Urban Areas,male,20 to 24,56.45,56.30,56.60,42.09,41.30,42.88,74.56
+UR1,Large Urban Areas,male,25 to 29,51.59,51.44,51.74,37.58,36.81,38.36,72.85
+UR1,Large Urban Areas,male,30 to 34,46.79,46.64,46.94,33.20,32.44,33.96,70.96
+UR1,Large Urban Areas,male,35 to 39,42.06,41.91,42.20,28.98,28.24,29.73,68.92
+UR1,Large Urban Areas,male,40 to 44,37.47,37.33,37.61,25.04,24.32,25.76,66.82
+UR1,Large Urban Areas,male,45 to 49,33.12,32.99,33.25,21.42,20.72,22.11,64.67
+UR1,Large Urban Areas,male,50 to 54,28.91,28.78,29.03,18.00,17.33,18.68,62.28
+UR1,Large Urban Areas,male,55 to 59,24.74,24.62,24.87,14.78,14.12,15.44,59.72
+UR1,Large Urban Areas,male,60 to 64,20.73,20.62,20.85,11.84,11.20,12.48,57.10
+UR1,Large Urban Areas,male,65 to 69,16.97,16.86,17.08,9.26,8.64,9.89,54.60
+UR1,Large Urban Areas,male,70 to 74,13.52,13.42,13.63,7.01,6.38,7.64,51.85
+UR1,Large Urban Areas,male,75 to 79,10.38,10.28,10.48,5.05,4.38,5.72,48.65
+UR1,Large Urban Areas,male,80 to 84,7.83,7.73,7.93,3.56,2.87,4.25,45.42
+UR1,Large Urban Areas,male,85 to 89,5.69,5.58,5.79,2.41,1.83,2.99,42.33
+UR1,Large Urban Areas,male,90+,4.05,3.91,4.20,1.68,1.12,2.24,41.40
+UR2,Other Urban Areas,female,less than 1,80.50,80.35,80.64,61.50,60.82,62.18,76.40
+UR2,Other Urban Areas,female,1 to 4,79.74,79.60,79.87,60.73,60.05,61.41,76.17
+UR2,Other Urban Areas,female,5 to 9,75.77,75.63,75.90,56.97,56.29,57.64,75.19
+UR2,Other Urban Areas,female,10 to 14,70.81,70.67,70.94,52.32,51.66,52.99,73.90
+UR2,Other Urban Areas,female,15 to 19,65.84,65.70,65.97,47.75,47.10,48.40,72.53
+UR2,Other Urban Areas,female,20 to 24,60.92,60.79,61.05,43.31,42.69,43.94,71.10
+UR2,Other Urban Areas,female,25 to 29,56.03,55.90,56.16,39.00,38.40,39.60,69.61
+UR2,Other Urban Areas,female,30 to 34,51.15,51.03,51.28,34.81,34.22,35.39,68.04
+UR2,Other Urban Areas,female,35 to 39,46.33,46.21,46.46,30.75,30.19,31.32,66.38
+UR2,Other Urban Areas,female,40 to 44,41.62,41.50,41.74,26.89,26.35,27.44,64.62
+UR2,Other Urban Areas,female,45 to 49,36.98,36.87,37.10,23.21,22.68,23.74,62.76
+UR2,Other Urban Areas,female,50 to 54,32.37,32.26,32.48,19.68,19.17,20.18,60.79
+UR2,Other Urban Areas,female,55 to 59,27.89,27.79,28.00,16.38,15.89,16.87,58.73
+UR2,Other Urban Areas,female,60 to 64,23.57,23.47,23.67,13.33,12.86,13.81,56.58
+UR2,Other Urban Areas,female,65 to 69,19.42,19.33,19.52,10.52,10.06,10.98,54.18
+UR2,Other Urban Areas,female,70 to 74,15.51,15.42,15.60,7.99,7.54,8.45,51.53
+UR2,Other Urban Areas,female,75 to 79,11.94,11.85,12.02,5.81,5.35,6.27,48.68
+UR2,Other Urban Areas,female,80 to 84,8.86,8.79,8.94,4.06,3.63,4.48,45.75
+UR2,Other Urban Areas,female,85 to 89,6.28,6.20,6.36,2.69,2.34,3.04,42.81
+UR2,Other Urban Areas,female,90+,4.43,4.33,4.53,1.76,1.43,2.10,39.81
+UR2,Other Urban Areas,male,less than 1,76.49,76.33,76.65,60.30,59.65,60.95,78.84
+UR2,Other Urban Areas,male,1 to 4,75.75,75.60,75.91,59.57,58.92,60.22,78.63
+UR2,Other Urban Areas,male,5 to 9,71.82,71.67,71.97,55.84,55.20,56.49,77.76
+UR2,Other Urban Areas,male,10 to 14,66.85,66.69,67.00,51.19,50.55,51.82,76.57
+UR2,Other Urban Areas,male,15 to 19,61.88,61.73,62.03,46.58,45.96,47.20,75.28
+UR2,Other Urban Areas,male,20 to 24,57.01,56.86,57.15,42.12,41.52,42.72,73.88
+UR2,Other Urban Areas,male,25 to 29,52.20,52.05,52.34,37.78,37.19,38.36,72.38
+UR2,Other Urban Areas,male,30 to 34,47.50,47.36,47.64,33.60,33.04,34.17,70.75
+UR2,Other Urban Areas,male,35 to 39,42.86,42.73,43.00,29.58,29.04,30.12,69.01
+UR2,Other Urban Areas,male,40 to 44,38.31,38.18,38.44,25.72,25.20,26.24,67.14
+UR2,Other Urban Areas,male,45 to 49,33.89,33.77,34.01,22.07,21.56,22.57,65.12
+UR2,Other Urban Areas,male,50 to 54,29.51,29.40,29.63,18.57,18.09,19.06,62.94
+UR2,Other Urban Areas,male,55 to 59,25.23,25.12,25.34,15.29,14.82,15.76,60.61
+UR2,Other Urban Areas,male,60 to 64,21.10,20.99,21.20,12.26,11.81,12.72,58.14
+UR2,Other Urban Areas,male,65 to 69,17.24,17.14,17.33,9.57,9.13,10.02,55.54
+UR2,Other Urban Areas,male,70 to 74,13.69,13.60,13.79,7.21,6.76,7.66,52.67
+UR2,Other Urban Areas,male,75 to 79,10.50,10.41,10.59,5.20,4.73,5.67,49.52
+UR2,Other Urban Areas,male,80 to 84,7.82,7.73,7.91,3.60,3.17,4.04,46.06
+UR2,Other Urban Areas,male,85 to 89,5.70,5.61,5.80,2.42,2.05,2.79,42.39
+UR2,Other Urban Areas,male,90+,4.09,3.95,4.23,1.57,1.21,1.92,38.33
+UR3,Accessible Small Towns,female,less than 1,81.82,81.53,82.10,62.56,61.13,63.99,76.46
+UR3,Accessible Small Towns,female,1 to 4,81.02,80.75,81.30,61.81,60.38,63.25,76.29
+UR3,Accessible Small Towns,female,5 to 9,77.06,76.79,77.33,58.23,56.82,59.64,75.57
+UR3,Accessible Small Towns,female,10 to 14,72.06,71.79,72.33,53.74,52.37,55.12,74.58
+UR3,Accessible Small Towns,female,15 to 19,67.12,66.86,67.39,49.33,48.00,50.67,73.50
+UR3,Accessible Small Towns,female,20 to 24,62.17,61.91,62.44,44.98,43.69,46.28,72.35
+UR3,Accessible Small Towns,female,25 to 29,57.31,57.06,57.56,40.77,39.52,42.02,71.14
+UR3,Accessible Small Towns,female,30 to 34,52.42,52.17,52.67,36.61,35.41,37.80,69.83
+UR3,Accessible Small Towns,female,35 to 39,47.56,47.32,47.80,32.53,31.40,33.66,68.40
+UR3,Accessible Small Towns,female,40 to 44,42.78,42.55,43.02,28.58,27.49,29.67,66.81
+UR3,Accessible Small Towns,female,45 to 49,38.01,37.78,38.23,24.74,23.68,25.79,65.09
+UR3,Accessible Small Towns,female,50 to 54,33.34,33.12,33.56,21.07,20.06,22.09,63.20
+UR3,Accessible Small Towns,female,55 to 59,28.75,28.54,28.96,17.60,16.61,18.59,61.21
+UR3,Accessible Small Towns,female,60 to 64,24.34,24.13,24.54,14.36,13.40,15.32,59.01
+UR3,Accessible Small Towns,female,65 to 69,20.10,19.91,20.29,11.34,10.41,12.28,56.45
+UR3,Accessible Small Towns,female,70 to 74,16.15,15.97,16.33,8.64,7.71,9.58,53.51
+UR3,Accessible Small Towns,female,75 to 79,12.45,12.27,12.62,6.25,5.31,7.19,50.24
+UR3,Accessible Small Towns,female,80 to 84,9.19,9.03,9.36,4.31,3.48,5.13,46.84
+UR3,Accessible Small Towns,female,85 to 89,6.49,6.33,6.66,2.85,2.16,3.55,43.91
+UR3,Accessible Small Towns,female,90+,4.37,4.16,4.58,1.81,1.17,2.45,41.36
+UR3,Accessible Small Towns,male,less than 1,78.42,78.10,78.73,62.45,61.13,63.77,79.64
+UR3,Accessible Small Towns,male,1 to 4,77.61,77.31,77.91,61.70,60.38,63.01,79.50
+UR3,Accessible Small Towns,male,5 to 9,73.64,73.34,73.94,58.07,56.78,59.36,78.85
+UR3,Accessible Small Towns,male,10 to 14,68.67,68.37,68.96,53.49,52.24,54.74,77.90
+UR3,Accessible Small Towns,male,15 to 19,63.68,63.39,63.98,48.85,47.64,50.07,76.72
+UR3,Accessible Small Towns,male,20 to 24,58.75,58.46,59.05,44.26,43.09,45.44,75.34
+UR3,Accessible Small Towns,male,25 to 29,53.94,53.65,54.23,39.80,38.66,40.95,73.79
+UR3,Accessible Small Towns,male,30 to 34,49.21,48.94,49.49,35.47,34.36,36.58,72.07
+UR3,Accessible Small Towns,male,35 to 39,44.59,44.33,44.85,31.26,30.18,32.34,70.10
+UR3,Accessible Small Towns,male,40 to 44,39.86,39.61,40.11,27.04,25.99,28.09,67.83
+UR3,Accessible Small Towns,male,45 to 49,35.21,34.97,35.46,22.95,21.94,23.97,65.18
+UR3,Accessible Small Towns,male,50 to 54,30.79,30.56,31.02,19.13,18.14,20.11,62.12
+UR3,Accessible Small Towns,male,55 to 59,26.40,26.18,26.63,15.53,14.57,16.48,58.81
+UR3,Accessible Small Towns,male,60 to 64,22.16,21.95,22.38,12.24,11.31,13.17,55.23
+UR3,Accessible Small Towns,male,65 to 69,18.16,17.96,18.36,9.36,8.44,10.27,51.53
+UR3,Accessible Small Towns,male,70 to 74,14.49,14.30,14.68,6.84,5.92,7.76,47.19
+UR3,Accessible Small Towns,male,75 to 79,11.08,10.89,11.26,4.69,3.74,5.64,42.32
+UR3,Accessible Small Towns,male,80 to 84,8.07,7.89,8.25,3.00,2.07,3.94,37.20
+UR3,Accessible Small Towns,male,85 to 89,5.75,5.55,5.95,1.85,1.09,2.61,32.20
+UR3,Accessible Small Towns,male,90+,4.09,3.80,4.37,1.12,0.43,1.82,27.49
+UR4,Remote Small Towns,female,less than 1,81.06,80.59,81.54,60.81,58.54,63.08,75.01
+UR4,Remote Small Towns,female,1 to 4,80.32,79.88,80.76,60.27,57.99,62.54,75.03
+UR4,Remote Small Towns,female,5 to 9,76.38,75.95,76.81,57.30,55.12,59.47,75.01
+UR4,Remote Small Towns,female,10 to 14,71.40,70.97,71.83,53.44,51.42,55.45,74.84
+UR4,Remote Small Towns,female,15 to 19,66.54,66.12,66.96,49.55,47.69,51.41,74.47
+UR4,Remote Small Towns,female,20 to 24,61.63,61.22,62.04,45.52,43.81,47.23,73.86
+UR4,Remote Small Towns,female,25 to 29,56.75,56.35,57.15,41.43,39.89,42.96,73.00
+UR4,Remote Small Towns,female,30 to 34,51.86,51.47,52.25,37.30,35.80,38.80,71.93
+UR4,Remote Small Towns,female,35 to 39,47.00,46.62,47.38,33.21,31.80,34.61,70.66
+UR4,Remote Small Towns,female,40 to 44,42.27,41.90,42.63,29.23,27.91,30.56,69.17
+UR4,Remote Small Towns,female,45 to 49,37.61,37.27,37.96,25.38,24.11,26.66,67.49
+UR4,Remote Small Towns,female,50 to 54,32.99,32.66,33.32,21.64,20.45,22.83,65.60
+UR4,Remote Small Towns,female,55 to 59,28.53,28.22,28.84,18.12,16.96,19.27,63.51
+UR4,Remote Small Towns,female,60 to 64,24.16,23.87,24.45,14.73,13.63,15.84,60.98
+UR4,Remote Small Towns,female,65 to 69,19.96,19.69,20.23,11.69,10.63,12.75,58.56
+UR4,Remote Small Towns,female,70 to 74,16.02,15.77,16.27,8.99,7.93,10.04,56.09
+UR4,Remote Small Towns,female,75 to 79,12.35,12.12,12.58,6.59,5.55,7.63,53.37
+UR4,Remote Small Towns,female,80 to 84,9.19,8.98,9.41,4.59,3.60,5.58,49.94
+UR4,Remote Small Towns,female,85 to 89,6.44,6.23,6.64,2.90,2.08,3.73,45.09
+UR4,Remote Small Towns,female,90+,4.32,4.06,4.57,1.62,0.87,2.36,37.41
+UR4,Remote Small Towns,male,less than 1,76.71,76.20,77.22,64.38,62.81,65.95,83.93
+UR4,Remote Small Towns,male,1 to 4,75.79,75.29,76.29,63.46,61.89,65.03,83.73
+UR4,Remote Small Towns,male,5 to 9,71.82,71.32,72.32,59.52,57.95,61.09,82.88
+UR4,Remote Small Towns,male,10 to 14,66.82,66.32,67.32,54.60,53.04,56.16,81.71
+UR4,Remote Small Towns,male,15 to 19,61.84,61.34,62.34,49.72,48.17,51.26,80.40
+UR4,Remote Small Towns,male,20 to 24,56.99,56.50,57.48,45.00,43.47,46.53,78.96
+UR4,Remote Small Towns,male,25 to 29,52.28,51.81,52.75,40.46,38.97,41.95,77.39
+UR4,Remote Small Towns,male,30 to 34,47.78,47.34,48.23,36.17,34.70,37.63,75.69
+UR4,Remote Small Towns,male,35 to 39,43.25,42.83,43.67,31.94,30.57,33.30,73.85
+UR4,Remote Small Towns,male,40 to 44,38.69,38.30,39.08,27.79,26.51,29.08,71.83
+UR4,Remote Small Towns,male,45 to 49,34.29,33.93,34.65,23.84,22.63,25.05,69.52
+UR4,Remote Small Towns,male,50 to 54,29.74,29.39,30.08,19.90,18.75,21.04,66.92
+UR4,Remote Small Towns,male,55 to 59,25.41,25.08,25.74,16.31,15.21,17.40,64.16
+UR4,Remote Small Towns,male,60 to 64,21.39,21.08,21.70,13.14,12.07,14.21,61.42
+UR4,Remote Small Towns,male,65 to 69,17.51,17.23,17.80,10.28,9.22,11.33,58.67
+UR4,Remote Small Towns,male,70 to 74,14.05,13.78,14.32,7.78,6.74,8.82,55.38
+UR4,Remote Small Towns,male,75 to 79,10.85,10.60,11.10,5.59,4.50,6.69,51.54
+UR4,Remote Small Towns,male,80 to 84,8.07,7.83,8.31,3.83,2.86,4.80,47.52
+UR4,Remote Small Towns,male,85 to 89,5.67,5.42,5.92,2.49,1.69,3.29,43.90
+UR4,Remote Small Towns,male,90+,3.93,3.57,4.28,1.67,0.93,2.41,42.47
+UR5,Accessible Rural,female,less than 1,82.89,82.64,83.15,65.19,63.91,66.48,78.65
+UR5,Accessible Rural,female,1 to 4,82.06,81.82,82.31,64.41,63.13,65.70,78.49
+UR5,Accessible Rural,female,5 to 9,78.08,77.84,78.32,60.77,59.50,62.04,77.83
+UR5,Accessible Rural,female,10 to 14,73.10,72.86,73.34,56.23,54.99,57.47,76.92
+UR5,Accessible Rural,female,15 to 19,68.14,67.90,68.38,51.72,50.51,52.93,75.91
+UR5,Accessible Rural,female,20 to 24,63.22,62.99,63.46,47.31,46.13,48.48,74.83
+UR5,Accessible Rural,female,25 to 29,58.33,58.10,58.56,42.99,41.88,44.10,73.70
+UR5,Accessible Rural,female,30 to 34,53.42,53.19,53.64,38.71,37.64,39.77,72.46
+UR5,Accessible Rural,female,35 to 39,48.53,48.31,48.75,34.51,33.48,35.53,71.10
+UR5,Accessible Rural,female,40 to 44,43.70,43.49,43.92,30.42,29.43,31.40,69.60
+UR5,Accessible Rural,female,45 to 49,38.92,38.72,39.13,26.45,25.49,27.40,67.94
+UR5,Accessible Rural,female,50 to 54,34.17,33.97,34.38,22.60,21.67,23.53,66.14
+UR5,Accessible Rural,female,55 to 59,29.58,29.38,29.77,18.98,18.07,19.89,64.16
+UR5,Accessible Rural,female,60 to 64,25.07,24.88,25.26,15.55,14.66,16.44,62.03
+UR5,Accessible Rural,female,65 to 69,20.78,20.60,20.97,12.38,11.49,13.26,59.55
+UR5,Accessible Rural,female,70 to 74,16.64,16.46,16.81,9.45,8.57,10.33,56.78
+UR5,Accessible Rural,female,75 to 79,12.88,12.71,13.05,6.89,5.99,7.80,53.52
+UR5,Accessible Rural,female,80 to 84,9.58,9.41,9.75,4.79,3.92,5.66,49.97
+UR5,Accessible Rural,female,85 to 89,6.82,6.64,7.00,3.17,2.43,3.91,46.49
+UR5,Accessible Rural,female,90+,4.85,4.62,5.08,2.13,1.40,2.85,43.82
+UR5,Accessible Rural,male,less than 1,79.62,79.34,79.89,66.13,65.13,67.12,83.05
+UR5,Accessible Rural,male,1 to 4,78.80,78.54,79.07,65.33,64.33,66.33,82.90
+UR5,Accessible Rural,male,5 to 9,74.82,74.56,75.08,61.54,60.55,62.53,82.25
+UR5,Accessible Rural,male,10 to 14,69.85,69.59,70.11,56.79,55.81,57.77,81.31
+UR5,Accessible Rural,male,15 to 19,64.87,64.61,65.13,52.04,51.07,53.01,80.22
+UR5,Accessible Rural,male,20 to 24,60.03,59.78,60.28,47.42,46.46,48.37,78.99
+UR5,Accessible Rural,male,25 to 29,55.17,54.92,55.42,42.84,41.90,43.78,77.65
+UR5,Accessible Rural,male,30 to 34,50.41,50.18,50.65,38.40,37.48,39.31,76.17
+UR5,Accessible Rural,male,35 to 39,45.72,45.49,45.94,34.05,33.17,34.94,74.49
+UR5,Accessible Rural,male,40 to 44,41.01,40.79,41.22,29.76,28.90,30.62,72.57
+UR5,Accessible Rural,male,45 to 49,36.35,36.14,36.55,25.56,24.72,26.40,70.32
+UR5,Accessible Rural,male,50 to 54,31.75,31.56,31.95,21.52,20.71,22.34,67.78
+UR5,Accessible Rural,male,55 to 59,27.20,27.01,27.39,17.67,16.87,18.47,64.97
+UR5,Accessible Rural,male,60 to 64,22.82,22.64,23.01,14.16,13.38,14.93,62.03
+UR5,Accessible Rural,male,65 to 69,18.70,18.52,18.88,11.03,10.27,11.79,58.99
+UR5,Accessible Rural,male,70 to 74,14.91,14.74,15.08,8.24,7.47,9.00,55.25
+UR5,Accessible Rural,male,75 to 79,11.38,11.21,11.55,5.83,5.03,6.63,51.25
+UR5,Accessible Rural,male,80 to 84,8.36,8.19,8.52,3.89,3.16,4.62,46.59
+UR5,Accessible Rural,male,85 to 89,5.99,5.80,6.17,2.49,1.88,3.10,41.64
+UR5,Accessible Rural,male,90+,4.19,3.92,4.45,1.53,0.96,2.10,36.51
+UR6,Remote Rural,female,less than 1,83.05,82.71,83.40,63.61,61.76,65.47,76.60
+UR6,Remote Rural,female,1 to 4,82.17,81.84,82.50,62.79,60.94,64.65,76.42
+UR6,Remote Rural,female,5 to 9,78.19,77.86,78.52,59.18,57.35,61.01,75.69
+UR6,Remote Rural,female,10 to 14,73.22,72.90,73.55,54.74,52.97,56.52,74.77
+UR6,Remote Rural,female,15 to 19,68.25,67.93,68.57,50.35,48.63,52.06,73.77
+UR6,Remote Rural,female,20 to 24,63.36,63.05,63.68,46.17,44.53,47.82,72.87
+UR6,Remote Rural,female,25 to 29,58.51,58.21,58.81,42.15,40.63,43.67,72.04
+UR6,Remote Rural,female,30 to 34,53.60,53.31,53.89,38.11,36.71,39.52,71.11
+UR6,Remote Rural,female,35 to 39,48.74,48.46,49.02,34.18,32.96,35.39,70.12
+UR6,Remote Rural,female,40 to 44,43.92,43.65,44.19,30.31,29.19,31.43,69.01
+UR6,Remote Rural,female,45 to 49,39.11,38.85,39.37,26.46,25.41,27.50,67.65
+UR6,Remote Rural,female,50 to 54,34.40,34.15,34.65,22.75,21.76,23.74,66.15
+UR6,Remote Rural,female,55 to 59,29.79,29.55,30.03,19.18,18.24,20.11,64.37
+UR6,Remote Rural,female,60 to 64,25.33,25.10,25.56,15.77,14.86,16.68,62.26
+UR6,Remote Rural,female,65 to 69,21.06,20.84,21.28,12.47,11.58,13.36,59.22
+UR6,Remote Rural,female,70 to 74,16.89,16.68,17.10,9.38,8.50,10.26,55.54
+UR6,Remote Rural,female,75 to 79,12.99,12.79,13.19,6.66,5.78,7.53,51.23
+UR6,Remote Rural,female,80 to 84,9.48,9.29,9.67,4.38,3.56,5.20,46.20
+UR6,Remote Rural,female,85 to 89,6.53,6.35,6.72,2.77,2.10,3.44,42.45
+UR6,Remote Rural,female,90+,4.28,4.06,4.51,1.88,1.27,2.49,43.89
+UR6,Remote Rural,male,less than 1,79.15,78.75,79.55,66.27,64.90,67.64,83.73
+UR6,Remote Rural,male,1 to 4,78.23,77.84,78.62,65.34,63.97,66.71,83.52
+UR6,Remote Rural,male,5 to 9,74.31,73.92,74.69,61.40,60.03,62.77,82.64
+UR6,Remote Rural,male,10 to 14,69.32,68.94,69.70,56.45,55.08,57.82,81.43
+UR6,Remote Rural,male,15 to 19,64.43,64.05,64.80,51.65,50.29,53.01,80.17
+UR6,Remote Rural,male,20 to 24,59.68,59.32,60.04,47.07,45.72,48.42,78.87
+UR6,Remote Rural,male,25 to 29,54.97,54.62,55.31,42.61,41.31,43.92,77.52
+UR6,Remote Rural,male,30 to 34,50.32,50.00,50.64,38.31,37.09,39.53,76.13
+UR6,Remote Rural,male,35 to 39,45.62,45.32,45.92,34.07,32.96,35.19,74.68
+UR6,Remote Rural,male,40 to 44,40.97,40.69,41.25,29.98,28.95,31.01,73.18
+UR6,Remote Rural,male,45 to 49,36.30,36.04,36.56,25.99,25.04,26.94,71.60
+UR6,Remote Rural,male,50 to 54,31.69,31.44,31.94,22.16,21.28,23.05,69.94
+UR6,Remote Rural,male,55 to 59,27.22,26.98,27.46,18.57,17.74,19.39,68.21
+UR6,Remote Rural,male,60 to 64,22.95,22.72,23.18,15.23,14.44,16.02,66.37
+UR6,Remote Rural,male,65 to 69,18.80,18.59,19.01,12.12,11.37,12.88,64.48
+UR6,Remote Rural,male,70 to 74,14.93,14.72,15.13,9.32,8.58,10.05,62.43
+UR6,Remote Rural,male,75 to 79,11.35,11.15,11.55,6.83,6.08,7.57,60.17
+UR6,Remote Rural,male,80 to 84,8.26,8.07,8.46,4.78,4.09,5.46,57.81
+UR6,Remote Rural,male,85 to 89,5.72,5.52,5.93,3.16,2.59,3.72,55.15
+UR6,Remote Rural,male,90+,3.83,3.56,4.11,2.01,1.50,2.53,52.54
+,,,,,,,,,,
+© Crown copyright 2019,,,,,,,,,,
